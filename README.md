@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahul123ktl
 - 👀 I’m interested in marketing
-- 🌱 I’m currently learning wordpress
+- 🌱 I’m currently learning website building
 - 💞️ I’m looking to collaborate on wordpress, photo editing, vedio editing, marketing capaigns
 - 📫 How to reach me rahul100ktl@gmail.com
 
